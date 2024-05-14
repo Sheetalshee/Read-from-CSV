@@ -23,8 +23,8 @@ Increase the maximum number of rows to display the entire DataFrame.
 
 ```
 #To write a python program for reading content from a CSV file.
-#Developed by:Balaji J
-#Register Number: 212221243001
+#Developed by:SHEETAL.R
+#Register Number: 212223230206
 
 import pandas as pd
 df = pd.read_csv('nba.csv')
@@ -36,7 +36,8 @@ print("Number of columns:",len(df.axes[1]))
 
 ## OUTPUT:
 
-![328076097-9bedb356-585c-4912-bde2-a9f02157cb99](https://github.com/Balaji-Jothiramalingam/Read-from-CSV/assets/114234865/4483219f-1a67-4dec-ab78-a316698cb420)
+![image](https://github.com/Sheetalshee/Read-from-CSV/assets/144979107/9569ad51-7c5d-48d6-9537-0509f36ee065)
+
 
 
 ## RESULT:
